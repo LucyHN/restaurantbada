@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/restaurantbada/static/js/main.22b863b7.js",
+    "main.js": "/restaurantbada/static/js/main.77cef5f4.js",
     "static/js/787.86d05c22.chunk.js": "/restaurantbada/static/js/787.86d05c22.chunk.js",
     "static/media/events.jpg": "/restaurantbada/static/media/events.3bba3061f94548e0c311.jpg",
     "static/media/main.jpg": "/restaurantbada/static/media/main.1ba1ccfacf3b82071e83.jpg",
@@ -9,10 +9,10 @@
     "static/media/food.jpg": "/restaurantbada/static/media/food.69ceff16edd833fd7879.jpg",
     "static/media/restaurant.jpg": "/restaurantbada/static/media/restaurant.d16ae1b36598084437a1.jpg",
     "index.html": "/restaurantbada/index.html",
-    "main.22b863b7.js.map": "/restaurantbada/static/js/main.22b863b7.js.map",
+    "main.77cef5f4.js.map": "/restaurantbada/static/js/main.77cef5f4.js.map",
     "787.86d05c22.chunk.js.map": "/restaurantbada/static/js/787.86d05c22.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.22b863b7.js"
+    "static/js/main.77cef5f4.js"
   ]
 }
